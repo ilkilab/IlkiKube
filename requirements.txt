@@ -2,7 +2,7 @@ ansible==2.10.7
 ansible-base==2.10.5
 cffi==1.14.5
 cryptography==3.4.6
-Jinja2==2.11.3
+Jinja2==3.1.4
 MarkupSafe==1.1.1
 netaddr==0.8.0
 packaging==20.9
